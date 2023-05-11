@@ -2,7 +2,7 @@
 <h3 align="center">A random developer from Italy</h3>
 
 - 🌱 I’m currently studying at **University of Trento**
-- 👨‍💻 I'm learning React and Java
+- 👨‍💻 I'm learning **React and Java**
 - ⚡ Fun fact **i hate servlets**
 
 
