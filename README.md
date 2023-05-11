@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying at **University of Trento**
 - 👨‍💻 I'm learning **React and Java**
-- ⚡ Fun fact **i hate servlets**
+- ⚡ Fun fact: **i hate servlets**
 
 
 <h3 align="left">Languages and Tools:</h3>
