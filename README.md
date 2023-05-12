@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently studying at **University of Trento**
 - 👨‍💻 I'm learning **React and Java**
+- 📝 Part time **graphic designer**
 - ⚡ Fun fact: **i hate servlets**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
