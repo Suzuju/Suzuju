@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently studying at **University of Trento**
 - 👨‍💻 I'm learning **React and Java**
-- 📝 Part time **graphic designer**
-- ⚡ Fun fact: **i hate servlets**
+- 📝 Part time **Graphic Designer**
+- ⚡ Fun fact: **EMU8086** with all my heart
 
 
 
