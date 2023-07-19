@@ -4,7 +4,7 @@
 - 🌱 I’m currently studying at **University of Trento**
 - 👨‍💻 I'm learning **React and Java**
 - 📝 Part time **Graphic Designer**
-- ⚡ Fun fact: **EMU8086** with all my heart
+- ⚡ Fun fact: i hate **EMU8086** 
 
 
 
